@@ -1,0 +1,9 @@
+{
+  "name": "study-night-project",
+  "version": "1.0.0",
+  "description": "Flashcard tool",
+  "license": "MIT",
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
