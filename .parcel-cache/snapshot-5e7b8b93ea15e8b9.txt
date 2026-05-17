@@ -1,11 +1,11 @@
-16263
+16267
 76C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\rust\lib134232013152969310 1
 78C:\Users\Khadeejeh\Github2\study-night-project\node_modules\.package-lock.json134232013241317101 0
 78C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es-errors\ref.d.ts134232013159237309 0
 74C:\Users\Khadeejeh\Github2\study-night-project\starter\src\cardSetsPage.js134230976516036016 0
 102C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\core\test\fixtures\invalid-targets134232013172302627 1
 100C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\diagnostic\test\markdown.test.js134232013150856161 0
-51C:\Users\Khadeejeh\Github2\study-night-project\dist134232045737651076 1
+51C:\Users\Khadeejeh\Github2\study-night-project\dist134234602340603567 1
 75C:\Users\Khadeejeh\Github2\study-night-project\node_modules\lodash\round.js134232013184190684 0
 90C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es5-ext\object\assign\index.js134232013172006476 0
 120C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\dist\types\internal\operators\joinAllInternals.d.ts.map134232013192329368 0
@@ -175,7 +175,7 @@
 100C:\Users\Khadeejeh\Github2\study-night-project\node_modules\vinyl-fs\node_modules\through2\README.md134232013145535354 0
 80C:\Users\Khadeejeh\Github2\study-night-project\node_modules\json5\lib\parse.d.ts134232013159717054 0
 87C:\Users\Khadeejeh\Github2\study-night-project\node_modules\async\internal\wrapAsync.js134232013169966281 0
-70C:\Users\Khadeejeh\Github2\study-night-project\starter\src\homePage.js134232045617000872 0
+70C:\Users\Khadeejeh\Github2\study-night-project\starter\src\homePage.js134234586567564987 0
 102C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\src\internal\NotificationFactories.ts134232013207134077 0
 72C:\Users\Khadeejeh\Github2\study-night-project\node_modules\safer-buffer134232013152119097 1
 106C:\Users\Khadeejeh\Github2\study-night-project\node_modules\set-value\node_modules\is-plain-object\LICENSE134232013145466996 0
@@ -395,7 +395,7 @@
 83C:\Users\Khadeejeh\Github2\study-night-project\node_modules\tldts\dist\cjs\index.js134232013156501447 0
 113C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@humanwhocodes\module-importer\src\module-importer.js134232013152013333 0
 106C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\dist\esm\internal\util\executeSchedule.js134232013172770748 0
-71C:\Users\Khadeejeh\Github2\study-night-project\starter\src\aboutPage.js134232045691472141 0
+71C:\Users\Khadeejeh\Github2\study-night-project\starter\src\aboutPage.js134234585732029573 0
 82C:\Users\Khadeejeh\Github2\study-night-project\node_modules\js-yaml\bin\js-yaml.js134232013158279950 0
 83C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\CODE_OF_CONDUCT.md134232013200530656 0
 67C:\Users\Khadeejeh\Github2\study-night-project\node_modules\ieee754134232013148818331 1
@@ -1663,7 +1663,7 @@
 76C:\Users\Khadeejeh\Github2\study-night-project\node_modules\uuid\dist\v35.js134232013164666433 0
 113C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\dist\types\internal\observable\forkJoin.d.ts.map134232013190274283 0
 103C:\Users\Khadeejeh\Github2\study-night-project\node_modules\mocha\node_modules\yargs\locales\zh_CN.json134232013164948745 0
-62C:\Users\Khadeejeh\Github2\study-night-project\dist\index.html134232051788082163 0
+62C:\Users\Khadeejeh\Github2\study-night-project\dist\index.html134234602338055600 0
 84C:\Users\Khadeejeh\Github2\study-night-project\node_modules\side-channel-map\LICENSE134232013146901200 0
 75C:\Users\Khadeejeh\Github2\study-night-project\node_modules\get-caller-file134232013146195682 1
 80C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\packager-svg134232013147594738 1
@@ -4222,7 +4222,7 @@
 93C:\Users\Khadeejeh\Github2\study-night-project\node_modules\type\ts-types\big-int\ensure.d.ts134232013168973806 0
 79C:\Users\Khadeejeh\Github2\study-night-project\node_modules\lmdb\src\cursor.cpp134232013166969852 0
 96C:\Users\Khadeejeh\Github2\study-night-project\node_modules\type\ts-types\array-like\ensure.d.ts134232013168872181 0
-72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.56237ad9.css134232045737576582 0
+72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.56237ad9.css134234602339751819 0
 91C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es5-ext\math\hypot\implement.js134232013168935695 0
 80C:\Users\Khadeejeh\Github2\study-night-project\node_modules\extglob\package.json134232013139391639 0
 91C:\Users\Khadeejeh\Github2\study-night-project\node_modules\type\ts-types\array\ensure.d.ts134232013168947043 0
@@ -5300,7 +5300,7 @@
 91C:\Users\Khadeejeh\Github2\study-night-project\node_modules\caniuse-lite\data\regions\ER.js134232013175933702 0
 107C:\Users\Khadeejeh\Github2\study-night-project\node_modules\cypress\react\dist\cypress-react.esm-bundler.js134232013162069445 0
 90C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\dist\esm5\internal\symbol134232013194050186 1
-66C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots134232070337430823 1
+66C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots134234602575995484 1
 99C:\Users\Khadeejeh\Github2\study-night-project\node_modules\rxjs\dist\cjs\internal\util\args.js.map134232013185476005 0
 77C:\Users\Khadeejeh\Github2\study-night-project\node_modules\lodash\fp\flow.js134232013179974280 0
 72C:\Users\Khadeejeh\Github2\study-night-project\node_modules\argparse\lib134232013150922658 1
@@ -8833,7 +8833,7 @@
 87C:\Users\Khadeejeh\Github2\study-night-project\node_modules\readable-stream\.travis.yml134232013161863836 0
 105C:\Users\Khadeejeh\Github2\study-night-project\node_modules\liftoff\node_modules\is-plain-object\index.js134232013147472475 0
 87C:\Users\Khadeejeh\Github2\study-night-project\node_modules\is-data-descriptor\index.js134232013149139337 0
-75C:\Users\Khadeejeh\Github2\study-night-project\cypress\e2e\navigation.cy.js134231009409111739 0
+75C:\Users\Khadeejeh\Github2\study-night-project\cypress\e2e\navigation.cy.js134234603102973314 0
 85C:\Users\Khadeejeh\Github2\study-night-project\node_modules\readable-stream\duplex.js134232013156645896 0
 71C:\Users\Khadeejeh\Github2\study-night-project\node_modules\ext\LICENSE134232013139165105 0
 79C:\Users\Khadeejeh\Github2\study-night-project\node_modules\readable-stream\lib134232013153454147 1
@@ -11027,7 +11027,7 @@
 92C:\Users\Khadeejeh\Github2\study-night-project\node_modules\listr2\dist\constants\index.d.ts134232013164514547 0
 90C:\Users\Khadeejeh\Github2\study-night-project\node_modules\listr2\dist\constants\index.js134232013157018398 0
 120C:\Users\Khadeejeh\Github2\study-night-project\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node134232013169747615 0
-71C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.de29c812.js134232045737297396 0
+71C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.de29c812.js134234602338055600 0
 93C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@swc\helpers\esm\_to_primitive.js134232013177392119 0
 90C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es5-ext\promise\.eslintrc.json134232013178943329 0
 100C:\Users\Khadeejeh\Github2\study-night-project\node_modules\lightningcss-win32-x64-msvc\package.json134232013141458639 0
@@ -11068,7 +11068,7 @@
 88C:\Users\Khadeejeh\Github2\study-night-project\node_modules\is-data-descriptor\README.md134232013155089889 0
 92C:\Users\Khadeejeh\Github2\study-night-project\node_modules\liftoff\lib\build_config_name.js134232013151579089 0
 86C:\Users\Khadeejeh\Github2\study-night-project\node_modules\liftoff\lib\find_config.js134232013154083933 0
-72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.7916b925.css134232045737576582 0
+72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.7916b925.css134234602339751819 0
 89C:\Users\Khadeejeh\Github2\study-night-project\node_modules\liftoff\lib\silent_require.js134232013157612881 0
 74C:\Users\Khadeejeh\Github2\study-night-project\node_modules\levn\README.md134232013151614927 0
 84C:\Users\Khadeejeh\Github2\study-night-project\node_modules\levn\lib\parse-string.js134232013148275825 0
@@ -11178,6 +11178,7 @@
 71C:\Users\Khadeejeh\Github2\study-night-project\node_modules\js-yaml\lib134232013163017741 1
 81C:\Users\Khadeejeh\Github2\study-night-project\node_modules\js-yaml\lib\common.js134232013149381063 0
 84C:\Users\Khadeejeh\Github2\study-night-project\node_modules\js-yaml\lib\exception.js134232013155330657 0
+124C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots\navigation.cy.js\Navigation -- goes to About (failed).png134234602620922517 0
 84C:\Users\Khadeejeh\Github2\study-night-project\node_modules\dayjs\esm\plugin\isToday134232013178853812 1
 82C:\Users\Khadeejeh\Github2\study-night-project\node_modules\js-yaml\lib\snippet.js134232013162686334 0
 129C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing\package.json134232013172222543 0
@@ -11735,7 +11736,7 @@
 118C:\Users\Khadeejeh\Github2\study-night-project\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js134232013180059428 0
 87C:\Users\Khadeejeh\Github2\study-night-project\node_modules\fs-extra\lib\ensure\link.js134232013161666975 0
 96C:\Users\Khadeejeh\Github2\study-night-project\node_modules\fs-extra\lib\ensure\symlink-paths.js134232013162900806 0
-75C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.de29c812.js.map134232045737337398 0
+75C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.de29c812.js.map134234602338803229 0
 80C:\Users\Khadeejeh\Github2\study-night-project\node_modules\check-error\index.js134232013145421997 0
 87C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es5-ext\math\atanh\index.js134232013171377987 0
 95C:\Users\Khadeejeh\Github2\study-night-project\node_modules\fs-extra\lib\ensure\symlink-type.js134232013163017741 0
@@ -13030,7 +13031,7 @@
 85C:\Users\Khadeejeh\Github2\study-night-project\node_modules\cli-truncate\package.json134232013144968349 0
 79C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es-errors\README.md134232013158037940 0
 81C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es-errors\syntax.d.ts134232013159516843 0
-69C:\Users\Khadeejeh\Github2\study-night-project\cypress\e2e\form.cy.js134232070187413864 0
+69C:\Users\Khadeejeh\Github2\study-night-project\cypress\e2e\form.cy.js134234602137368164 0
 81C:\Users\Khadeejeh\Github2\study-night-project\node_modules\bluebird\changelog.md134232013141931837 0
 74C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es-errors\test134232013149247884 1
 83C:\Users\Khadeejeh\Github2\study-night-project\node_modules\es-errors\tsconfig.json134232013157109283 0
@@ -14097,7 +14098,7 @@
 95C:\Users\Khadeejeh\Github2\study-night-project\node_modules\cypress\react\react\dist\index.d.ts134232013161562778 0
 99C:\Users\Khadeejeh\Github2\study-night-project\node_modules\cypress\react\dist\cypress-react.cjs.js134232013161839142 0
 91C:\Users\Khadeejeh\Github2\study-night-project\node_modules\cypress\mount-utils\mount-utils134232013168925629 1
-72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.003c3e08.css134232045737576582 0
+72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.003c3e08.css134234602339751819 0
 92C:\Users\Khadeejeh\Github2\study-night-project\node_modules\cypress\mount-utils\package.json134232013168807449 0
 110C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs134232013172388473 0
 105C:\Users\Khadeejeh\Github2\study-night-project\node_modules\caniuse-lite\data\features\css-transitions.js134232013173357385 0
@@ -14142,7 +14143,7 @@
 85C:\Users\Khadeejeh\Github2\study-night-project\node_modules\core-util-is\package.json134232013145624130 0
 82C:\Users\Khadeejeh\Github2\study-night-project\node_modules\core-util-is\README.md134232013147574667 0
 83C:\Users\Khadeejeh\Github2\study-night-project\node_modules\copy-props\package.json134232013145034565 0
-76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.ab49845f.css.map134232045736993382 0
+76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.ab49845f.css.map134234602340333553 0
 80C:\Users\Khadeejeh\Github2\study-night-project\node_modules\copy-props\README.md134232013147681393 0
 81C:\Users\Khadeejeh\Github2\study-night-project\node_modules\concat-stream\LICENSE134232013145034565 0
 86C:\Users\Khadeejeh\Github2\study-night-project\node_modules\concat-stream\package.json134232013139461635 0
@@ -14234,7 +14235,7 @@
 108C:\Users\Khadeejeh\Github2\study-night-project\node_modules\common-tags\es\replaceResultTransformer\index.js134232013163069068 0
 127C:\Users\Khadeejeh\Github2\study-night-project\node_modules\common-tags\es\replaceResultTransformer\replaceResultTransformer.js134232013168601983 0
 118C:\Users\Khadeejeh\Github2\study-night-project\node_modules\common-tags\es\removeNonPrintingValuesTransformer\index.js134232013162920922 0
-73C:\Users\Khadeejeh\Github2\study-night-project\dist\homePage.1a941f8e.png134232045737146768 0
+73C:\Users\Khadeejeh\Github2\study-night-project\dist\homePage.1a941f8e.png134234585240807398 0
 147C:\Users\Khadeejeh\Github2\study-night-project\node_modules\common-tags\es\removeNonPrintingValuesTransformer\removeNonPrintingValuesTransformer.js134232013168511999 0
 101C:\Users\Khadeejeh\Github2\study-night-project\node_modules\common-tags\es\oneLineTrim\oneLineTrim.js134232013168303607 0
 102C:\Users\Khadeejeh\Github2\study-night-project\node_modules\common-tags\es\oneLineInlineLists\index.js134232013162602175 0
@@ -15663,6 +15664,7 @@
 104C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\watcher\scripts\build-from-source.js134232013164033130 0
 81C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\fs\index.d.ts134232013160297381 0
 113C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\watcher\node_modules\detect-libc\package.json134232013151723011 0
+128C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots\navigation.cy.js\Navigation -- goes to Card Sets (failed).png134234602576019586 0
 110C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\watcher\node_modules\detect-libc\README.md134232013153210934 0
 81C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\utils\LICENSE134232013143286844 0
 86C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\utils\package.json134232013166822147 0
@@ -15721,7 +15723,7 @@
 111C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\transformer-react-refresh-wrap\package.json134232013154832756 0
 102C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\transformer-react-refresh-wrap\src134232013152149177 1
 133C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\transformer-react-refresh-wrap\src\ReactRefreshWrapTransformer.js134232013152440706 0
-76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.003c3e08.css.map134232045737630996 0
+76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.003c3e08.css.map134234602340333553 0
 125C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json134232013153815744 0
 121C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js134232013147616088 0
 99C:\Users\Khadeejeh\Github2\study-night-project\node_modules\@parcel\core\test\InternalAsset.test.js134232013166979855 0
@@ -16250,15 +16252,17 @@
 91C:\Users\Khadeejeh\Github2\study-night-project\node_modules\.bin\update-browserslist-db.cmd134232013212997240 0
 73C:\Users\Khadeejeh\Github2\study-night-project\node_modules\.bin\uuid.cmd134232013212997240 0
 73C:\Users\Khadeejeh\Github2\study-night-project\node_modules\.bin\uuid.ps1134232013212997240 0
-75C:\Users\Khadeejeh\Github2\study-night-project\dist\aboutImage.09237e89.png134232045737039421 0
+75C:\Users\Khadeejeh\Github2\study-night-project\dist\aboutImage.09237e89.png134234585240690090 0
+75C:\Users\Khadeejeh\Github2\study-night-project\dist\aboutImage.733e6e3a.png134234602337713486 0
 75C:\Users\Khadeejeh\Github2\study-night-project\dist\aboutImage.ffc1359f.png134232045040059905 0
-71C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.0ff3cd3b.js134232045736993382 0
-75C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.0ff3cd3b.js.map134232045737049446 0
-72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.11a25561.css134232045736910521 0
-76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.11a25561.css.map134232045736983275 0
-76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.56237ad9.css.map134232045737640985 0
-76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.7916b925.css.map134232045737630996 0
-72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.ab49845f.css134232045736920519 0
+73C:\Users\Khadeejeh\Github2\study-night-project\dist\homePage.1f592140.png134234602338055600 0
+71C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.0ff3cd3b.js134234602338055600 0
+75C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.0ff3cd3b.js.map134234602338803229 0
+72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.11a25561.css134234602339751819 0
+76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.11a25561.css.map134234602340333553 0
+76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.56237ad9.css.map134234602340333553 0
+76C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.7916b925.css.map134234602340333553 0
+72C:\Users\Khadeejeh\Github2\study-night-project\dist\starter.ab49845f.css134234602339751819 0
 62C:\Users\Khadeejeh\Github2\study-night-project\cypress\support134231135229798329 1
-77C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots\form.cy.js134232070337440749 1
-120C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots\form.cy.js\adds a flashcard successfully (failed).png134232070337460827 0
+83C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots\navigation.cy.js134234602665238992 1
+123C:\Users\Khadeejeh\Github2\study-night-project\cypress\screenshots\navigation.cy.js\Navigation -- goes to Home (failed).png134234602665251935 0
